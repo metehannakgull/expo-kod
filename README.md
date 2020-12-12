@@ -1,0 +1,2 @@
+# expo-kod
+expo çalışmam
